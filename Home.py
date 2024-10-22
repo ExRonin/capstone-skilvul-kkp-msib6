@@ -17,12 +17,16 @@ with st.expander('***About this app***'):
   st.markdown('**Links:**')
   st.code('''- https://www.kaggle.com/datasets/yusufemir/lemon-quality-dataset
   ''', language='markdown')
-  st.code('''- hhttps://github.com/sihareen/capstone-skilvul39
+  st.code('''- https://github.com/ExRonin/capstone-skilvul-kkp-msib6
   ''', language='markdown')
 
 st.divider()
-st.markdown('**Developers:**')
-st.text('-Muhammad Rizkan Harin Faza')
-st.text('-Dicky Wijaya Saputra')
-st.text('-Eko Santoso')
-st.text('-Nisrina Putri Fernanda Fairuz')
+st.markdown('**Kelompok KKP**')
+st.text('202143501014, Thegar Abiyudho Enggar Prasetyo')
+st.text('202143500993, Vinkan Apritazona Rengganis')
+st.text('202143502640, Salimah Mahdiyyah')
+st.text('202143500970, Nisrina Putri Fernanda Fairuz')
+st.text('202143500990, Riyandi Panji Pradana')
+st.text('202143500971, Muhammad Prafit Alvido Pratama')
+st.text('202143501000, Ananda Adi Saputra')
+st.text('202143500957, David Giofani')
