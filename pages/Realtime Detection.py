@@ -7,7 +7,7 @@ model = YOLO("models/bestv8.pt")
 model.conf = 0.25
 model.iou = 0.45
 
-st.title("YOLOv8 Object Detection")
+st.title("Lemonade Object Detection 🍋🍋")
 
 input_type = st.radio("Select input type", ["Image", "Video file"])
 
