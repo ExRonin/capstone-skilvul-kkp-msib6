@@ -25,7 +25,7 @@ if input_type == "Image":
             boxes = result.boxes
             if boxes is not None:
                 df = boxes.xyxy.cpu().numpy()
-               # st.write("Detection Results:", df)
+                st.write("Detection Results:", df)
 
             annotated_image = result.plot()
             st.image(annotated_image, caption='Detected Image.', use_column_width=True)
